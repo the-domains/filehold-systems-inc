@@ -1,6 +1,6 @@
 name: FileHold Systems Inc.
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.51348
 typography_spectrum: 0.5629
 title: FileHold Document and Record Lifecycle Software
 cta:
@@ -22,7 +22,7 @@ color:
     - '#75c260'
     - '#bbdfaf'
     - '#2f2d2e'
-  brandStrength: 0.5831209279131144
+  brandStrength: 0.8125
   lightness: 0.25400139880366623
   saturation: 0.4644438340328634
   rhythmicContrast: 0.6324245329014957
